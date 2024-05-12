@@ -1,0 +1,22 @@
+.Footer-wrap {
+    margin: 20px 400px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Footer-wrap li {
+    padding-bottom: 20px;
+    list-style: none;
+    opacity: 0.4;
+    cursor: pointer;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: space-between;
+}
+
+.socialmedia li {
+    opacity: 0.9;
+}

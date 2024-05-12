@@ -1,0 +1,37 @@
+.header-container {
+    height: 70px;
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    font-weight: 600;
+    /* background-color: transparent; */
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    padding-left: 70px;
+    padding-right: 70px;
+    cursor: pointer;
+}
+
+.header-container img {
+    height: 40px;
+}
+
+.header-container ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.header-container li {
+    padding-left: 24px;
+    text-align: center;
+}
+
+.header-right {
+    list-style: none;
+    list-style: unset;
+    align-items: flex-end;
+}
+
+.header-left {}
+
